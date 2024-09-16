@@ -10,6 +10,22 @@ This project contains all my activities related to DATA 1301: Intro to Data Scie
 **Position Title:** Student  
 **Course Webpage:** <https://www.cdslab.org/IDS2024F/>  
 **Photo:**  
-![Portrait of my favorite flower](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marthastewart.com%2F1539761%2Fplants-flowers-look-like-animals&psig=AOvVaw0gzcxEQuaH-aBr1PmhSptf&ust=1726543535082000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIie-YfCxogDFQAAAAAdAAAAABAE)  
+![Portrait of my favorite flower]()  
 
- 
+# Description of the project's content  
+This repository contains my homework, quizzes, and virtually every effort that I have made for Introduction to Data Science (Fall 2024). The structure of the project is the following:
+
++ Homework: (the homework hyperlink should take the reader to the homework folder)
+This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
+
++ Quiz: (the quiz hyperlink should take the reader to the quizzes folder)
+This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
+
++ Exam: (the exam hyperlink should take the reader to the exams folder)
+This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
+
+For questions and troubleshooting, please contact:
+
+<Summer Todd>
+<slt9351@mavs.uta.edu>
+<any other contact or signature information that you would like to add>
