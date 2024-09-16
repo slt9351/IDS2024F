@@ -7,4 +7,5 @@ This project contains all my activities related to DATA 1301: Intro to Data Scie
 **Department:** Department of Biology  
 **University:** [The University of Texas at Arlington](https://www.uta.edu/)  
 **Level:** <undergraduate> Junior (3rd year)  
-
+**Position Title:** Student  
+**Course Webpage:** <>
