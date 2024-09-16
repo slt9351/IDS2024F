@@ -30,3 +30,5 @@ Summer Todd
 slt9351@mavs.uta.edu  
 any other contact or signature information that you would like to add  
 
+>I have not failed. I’ve just found 10,000 ways that won’t work.  
+>Thomas A. Edison  
