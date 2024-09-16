@@ -26,7 +26,7 @@ This directory contains all my exam submissions, each of which is a folder prope
 
 For questions and troubleshooting, please contact:
 
-Summer Todd
-slt9351@mavs.uta.edu
-any other contact or signature information that you would like to add
+Summer Todd  
+slt9351@mavs.uta.edu  
+any other contact or signature information that you would like to add  
 
