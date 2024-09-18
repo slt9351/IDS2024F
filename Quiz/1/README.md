@@ -8,12 +8,12 @@ No it only tracks folders with files
 3. Does every Git project have a .git folder?  
 Every git project should have a .git folder or it is not a git project.
 
-4. What is the purpose of the .git folder in Git projects?
+4. What is the purpose of the .git folder in Git projects?  
 
-5. What does the Linux Bash command cd do? (Hint: See the Linux cheatsheet in the lecture notes)
+5. What does the Linux Bash command cd do? (Hint: See the Linux cheatsheet in the lecture notes)  
 cd takes you to home   
    
-6. What does the Linux Bash command ls -a do? (Hint: See the Linux cheatsheet in the lecture notes)
+6. What does the Linux Bash command ls -a do? (Hint: See the Linux cheatsheet in the lecture notes)  
 ls shows the directory listing   
 
 7. What does the Linux Bash command pwd do?
