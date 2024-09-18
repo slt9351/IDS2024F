@@ -10,7 +10,8 @@ No it only tracks folders with files
 
 Every git project should have a .git folder or it is not a git project.
 
-5. What is the purpose of the .git folder in Git projects?  
+5. What is the purpose of the .git folder in Git projects?
+.git folder stores the metadata  
 
 6. What does the Linux Bash command cd do? (Hint: See the Linux cheatsheet in the lecture notes)  
 
