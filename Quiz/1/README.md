@@ -2,7 +2,7 @@
 What does .md stand for? Why we do prefer to use .md extension for README files on GitHub?  
 .md stands for for mark down and we prefer to use it because it is an easier form of coding. 
 
-3. Does the git software index and track empty folders in your project?  
+4. Does the git software index and track empty folders in your project?  
 
 No it only tracks folders with files
 
@@ -10,7 +10,7 @@ No it only tracks folders with files
 
 Every git project should have a .git folder or it is not a git project.
 
-5. What is the purpose of the .git folder in Git projects?
+5. What is the purpose of the .git folder in Git projects?  
 .git folder stores the metadata  
 
 6. What does the Linux Bash command cd do? (Hint: See the Linux cheatsheet in the lecture notes)  
