@@ -3,26 +3,33 @@ What does .md stand for? Why we do prefer to use .md extension for README files 
 .md stands for for mark down and we prefer to use it because it is an easier form of coding. 
 
 2. Does the git software index and track empty folders in your project?  
+
 No it only tracks folders with files
 
 3. Does every Git project have a .git folder?  
+
 Every git project should have a .git folder or it is not a git project.
 
 4. What is the purpose of the .git folder in Git projects?  
 
 5. What does the Linux Bash command cd do? (Hint: See the Linux cheatsheet in the lecture notes)  
+
 cd takes you to home   
    
 6. What does the Linux Bash command ls -a do? (Hint: See the Linux cheatsheet in the lecture notes)  
+
 ls shows the directory listing   
 
 7. What does the Linux Bash command pwd do?
+
 pwd shows your location in the directory       
 
-8. Name and briefly describe the three different areas in a Git project.
-   
+8. Name and briefly describe the three different areas in a Git project.  
 
-What is a Version Control System (VCS)? A brief explanation is enough.
+The three different areas are the working area where work is modified but not staged, the staging area where work is staged to be committed, and the repository where work has been committed.  
+
+What is a Version Control System (VCS)? A brief explanation is enough.  
+VCS records changes to a file.
 
 Name 6 major benefits of using distributed VCS as opposed to not using any VCS at all for project indexing and maintenance.
 
