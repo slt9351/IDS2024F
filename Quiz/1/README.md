@@ -124,17 +124,18 @@ Computer
 Optimization
 Simulations
 Bayesian  
-26. Name three major modern pillars of science. (Hint: Consult our lecture notes)
-
-27. Name three major modern applications of computational and data sciences. (Hint: Consult our lecture notes)
-
-28. Name the three major components of the field of Data Science? (Hint: Consult our lecture notes)
-
-29. You are hopefully on track to become a Data Scientist. Recalling our discussion in class, how would you best define a Data Scientist? (Hint: Check, your answer to the previous question, consult our lecture notes and recall our detailed class discussion on data scientist as someone who knows more or less of certain topics compared to other scientists.)
-
+26. Name three major modern pillars of science. (Hint: Consult our lecture notes)  
+Experiment, theory, and computation+data  
+27. Name three major modern applications of computational and data sciences. (Hint: Consult our lecture notes)  
+Data scientist, data analyst, and data engineer.   
+28. Name the three major components of the field of Data Science? (Hint: Consult our lecture notes)  
+coding, stats, and domain  
+29. You are hopefully on track to become a Data Scientist. Recalling our discussion in class, how would you best define a Data Scientist? (Hint: Check, your answer to the previous question, consult our lecture notes and recall our detailed class discussion on data scientist as someone who knows more or less of certain topics compared to other scientists.)  
+   a data scientist is someone who can use data to create something in any way. 
 30. Extra Credit. What is the difference between a relative and an absolute file path?
+    An absolute path has a direct path from the original file whereas a relative path is a path from any other file. 
 Which one is more appropriate to use in your GitHub projects? Why?
+Relative paths are more approporate since they are easier to track.
+32. Extra Credit. Write down the Git command that lists all Git commands for you (Hint: See the lecture notes)
 
-31. Extra Credit. Write down the Git command that lists all Git commands for you (Hint: See the lecture notes)
-
-32. Extra Credit. What does the Linux Bash terminal command cd ~ do? (Hint: Recall our class discussions on what ~ means.)
+33. Extra Credit. What does the Linux Bash terminal command cd ~ do? (Hint: Recall our class discussions on what ~ means.)
