@@ -1,10 +1,12 @@
 1. Recall from our lectures that we typically name our read-me files README.md on GitHub.
-What does .md stand for? Why we do prefer to use .md extension for README files on GitHub?
-.md stands for 
+What does .md stand for? Why we do prefer to use .md extension for README files on GitHub?  
+.md stands for for mark down and we prefer to use it because it is an easier form of coding. 
 
-Does the git software index and track empty folders in your project?
+Does the git software index and track empty folders in your project?  
+No it only tracks folders with files
 
-Does every Git project have a .git folder?
+Does every Git project have a .git folder?  
+Every git project should have a .git folder or it is not a git project.
 
 What is the purpose of the .git folder in Git projects?
 
