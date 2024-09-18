@@ -2,7 +2,7 @@
 What does .md stand for? Why we do prefer to use .md extension for README files on GitHub?  
 .md stands for for mark down and we prefer to use it because it is an easier form of coding. 
 
-4. Does the git software index and track empty folders in your project?  
+3. Does the git software index and track empty folders in your project?  
 
 No it only tracks folders with files
 
@@ -85,30 +85,30 @@ $ mkdir testdir
 summe@Oracle MINGW64 ~
 $
 
-6. Change directory to testdir. (Hint: Recall the command to change directory from the Linux cheatsheet and our class)
+5. Change directory to testdir. (Hint: Recall the command to change directory from the Linux cheatsheet and our class)
 summe@Oracle MINGW64 ~
 $ cd testdir
 
 summe@Oracle MINGW64 ~/testdir
 $
 
-8. Is this folder testdir already a git repository? Why? Can you prove your answer with the command ls -a (What does this command do? Hint: -a stands for all.)
+6. Is this folder testdir already a git repository? Why? Can you prove your answer with the command ls -a (What does this command do? Hint: -a stands for all.)
    yes
-10. If your answer to the above is YES, then you can safely skip this part.
+7. If your answer to the above is YES, then you can safely skip this part.
 If your answer is NO, then how would you make this folder a Git project? (Hint: What is the right git command to achieve this? Hint: Consult our lecture notes on git project initialization.)
-11. Recall the vim software from our lectures and classes. What does it do?
+8. Recall the vim software from our lectures and classes. What does it do?
 Use vim to create a README.md file and type This is a README.md file for the test git project of quiz1.
 How do you save the contents of this file using vim and quit the vim environment? (Hint: Again remember our class discussion and lectures.)
-12. Once you are out of the vim environment, type cat README.md on the command line and press Enter key.
+9. Once you are out of the vim environment, type cat README.md on the command line and press Enter key.
 What do you see? Copy and paste this command and its output to as answer to this section of your quiz1 README.md file.
-13. How would you check the status of your test Git project that you have created in this folder? (Hint: Again, consult the lecture notes.)
+10. How would you check the status of your test Git project that you have created in this folder? (Hint: Again, consult the lecture notes.)
 Paste the git command and its output as your answer to this question in your quiz README.md file.
-14. If you see no changes, you can skip this question.
+11. If you see no changes, you can skip this question.
 If you see changes in your git project from the step above, how would you stage and commit those changes to your test project on the command line?
 Type those two (or both in one) commands in the terminal and copy/paste the output to your quiz1 README file.
-15. Check the status of your test project one more time on the command line.
+12. Check the status of your test project one more time on the command line.
 Copy/paste the command and its output to your quiz1 README file.
-16. Now type the following command exactly as is in your terminal and press Enter.
+13. Now type the following command exactly as is in your terminal and press Enter.
 cd .. && rm -rf ./testdir
 Explain what you just accomplished with the above command? What does -rf do in the above command?
 (Hint: && means perform the first command and if successful, perform the command that follows &&.)
@@ -119,23 +119,23 @@ Neuroscience
 Cognitive Science
 Neurobiology
 
-25. Name four modern scientific tools or algorithms that have been growing exponentially fast in popularity over the past decades. (Hint: Consult our lecture notes)  
+24. Name four modern scientific tools or algorithms that have been growing exponentially fast in popularity over the past decades. (Hint: Consult our lecture notes)  
 Computer
 Optimization
 Simulations
 Bayesian  
-26. Name three major modern pillars of science. (Hint: Consult our lecture notes)  
+25. Name three major modern pillars of science. (Hint: Consult our lecture notes)  
 Experiment, theory, and computation+data  
-27. Name three major modern applications of computational and data sciences. (Hint: Consult our lecture notes)  
+26. Name three major modern applications of computational and data sciences. (Hint: Consult our lecture notes)  
 Data scientist, data analyst, and data engineer.   
-28. Name the three major components of the field of Data Science? (Hint: Consult our lecture notes)  
+27. Name the three major components of the field of Data Science? (Hint: Consult our lecture notes)  
 coding, stats, and domain  
-29. You are hopefully on track to become a Data Scientist. Recalling our discussion in class, how would you best define a Data Scientist? (Hint: Check, your answer to the previous question, consult our lecture notes and recall our detailed class discussion on data scientist as someone who knows more or less of certain topics compared to other scientists.)  
+28. You are hopefully on track to become a Data Scientist. Recalling our discussion in class, how would you best define a Data Scientist? (Hint: Check, your answer to the previous question, consult our lecture notes and recall our detailed class discussion on data scientist as someone who knows more or less of certain topics compared to other scientists.)  
    a data scientist is someone who can use data to create something in any way. 
-30. Extra Credit. What is the difference between a relative and an absolute file path?
+29. Extra Credit. What is the difference between a relative and an absolute file path?
     An absolute path has a direct path from the original file whereas a relative path is a path from any other file. 
 Which one is more appropriate to use in your GitHub projects? Why?
 Relative paths are more approporate since they are easier to track.
-32. Extra Credit. Write down the Git command that lists all Git commands for you (Hint: See the lecture notes)
+30. Extra Credit. Write down the Git command that lists all Git commands for you (Hint: See the lecture notes)
 
-33. Extra Credit. What does the Linux Bash terminal command cd ~ do? (Hint: Recall our class discussions on what ~ means.)
+31. Extra Credit. What does the Linux Bash terminal command cd ~ do? (Hint: Recall our class discussions on what ~ means.)
