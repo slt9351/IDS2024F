@@ -2,21 +2,25 @@
 What does .md stand for? Why we do prefer to use .md extension for README files on GitHub?  
 .md stands for for mark down and we prefer to use it because it is an easier form of coding. 
 
-Does the git software index and track empty folders in your project?  
+2. Does the git software index and track empty folders in your project?  
 No it only tracks folders with files
 
-Does every Git project have a .git folder?  
+3. Does every Git project have a .git folder?  
 Every git project should have a .git folder or it is not a git project.
 
-What is the purpose of the .git folder in Git projects?
+4. What is the purpose of the .git folder in Git projects?
 
-What does the Linux Bash command cd do? (Hint: See the Linux cheatsheet in the lecture notes)
+5. What does the Linux Bash command cd do? (Hint: See the Linux cheatsheet in the lecture notes)
+cd takes you to home   
+   
+6. What does the Linux Bash command ls -a do? (Hint: See the Linux cheatsheet in the lecture notes)
+ls shows the directory listing   
 
-What does the Linux Bash command ls -a do? (Hint: See the Linux cheatsheet in the lecture notes)
+7. What does the Linux Bash command pwd do?
+pwd shows your location in the directory       
 
-What does the Linux Bash command pwd do?
-
-Name and briefly describe the three different areas in a Git project.
+8. Name and briefly describe the three different areas in a Git project.
+   
 
 What is a Version Control System (VCS)? A brief explanation is enough.
 
