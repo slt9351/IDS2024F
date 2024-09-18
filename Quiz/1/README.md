@@ -1,5 +1,6 @@
-Recall from our lectures that we typically name our read-me files README.md on GitHub.
+1. Recall from our lectures that we typically name our read-me files README.md on GitHub.
 What does .md stand for? Why we do prefer to use .md extension for README files on GitHub?
+.md stands for 
 
 Does the git software index and track empty folders in your project?
 
