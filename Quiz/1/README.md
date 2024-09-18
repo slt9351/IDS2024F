@@ -59,7 +59,7 @@ By adding two astericks or underscores before and after the words you want to bo
 19. How do you make a text italic in Markdown? (Hint: Read the Markdown cheatsheet in the lecture notes)
 By adding one asterick or underscore before and after the text you want to italicize.
 
-20. What is the Git command to initialize an empty git project on your local system?
+20. What is the Git command to initialize an empty git project on your local system?  
 git init
 
 21. What do . and .. mean in directory path names (For example, in ./README.md and ../README.md?
@@ -67,49 +67,74 @@ git init
 
 22. The following steps will guide you to create an empty Git project using the terminal (on macOS / Linux) or Git Bash environment (on Windows).
 If you have not set up Git on your system in class before, here is your last chance to do so.
-1. Open your terminal (on Linux or macOS) or Git Bash (NOT Windows CMD or PowerShell) on Windows.
-2. Navigate to your home directory and type the command that shows the path to the current directory on the command line (Hint: Recall the Linux commands to achieve this from our classes or the lecture cheatsheets.)
+1. Open your terminal (on Linux or macOS) or Git Bash (NOT Windows CMD or PowerShell) on Windows.  
+2. Navigate to your hocdme directory and type the command that shows the path to the current directory on the command line (Hint: Recall the Linux commands to achieve this from our classes or the lecture cheatsheets.)
 3. Select the commands that you have typed and their output from the command line and paste it into your README.md file for this quiz in the section for this question.
-(Hint: You can select text with your mouse, then right click and look for copy option, or alternatively, press ctrl + insert keys together to copy the selected text.)
+   summe@Oracle MINGW64 ~/downloads/IDS2024F (main)
+$ cd
+
+summe@Oracle MINGW64 ~  
+
 4. Create a new folder named testdir in your home directory (where you are).
 (Hint: Recall the Linux command for making directories.)
+
 Copy the command and its output again to the README.md file you have created for the quiz.
-5. Change directory to testdir. (Hint: Recall the command to change directory from the Linux cheatsheet and our class)
-6. Is this folder testdir already a git repository? Why? Can you prove your answer with the command ls -a (What does this command do? Hint: -a stands for all.)
-7. If your answer to the above is YES, then you can safely skip this part.
+summe@Oracle MINGW64 ~
+$ mkdir testdir
+
+summe@Oracle MINGW64 ~
+$
+
+6. Change directory to testdir. (Hint: Recall the command to change directory from the Linux cheatsheet and our class)
+summe@Oracle MINGW64 ~
+$ cd testdir
+
+summe@Oracle MINGW64 ~/testdir
+$
+
+8. Is this folder testdir already a git repository? Why? Can you prove your answer with the command ls -a (What does this command do? Hint: -a stands for all.)
+   yes
+10. If your answer to the above is YES, then you can safely skip this part.
 If your answer is NO, then how would you make this folder a Git project? (Hint: What is the right git command to achieve this? Hint: Consult our lecture notes on git project initialization.)
-8. Recall the vim software from our lectures and classes. What does it do?
+11. Recall the vim software from our lectures and classes. What does it do?
 Use vim to create a README.md file and type This is a README.md file for the test git project of quiz1.
 How do you save the contents of this file using vim and quit the vim environment? (Hint: Again remember our class discussion and lectures.)
-9. Once you are out of the vim environment, type cat README.md on the command line and press Enter key.
+12. Once you are out of the vim environment, type cat README.md on the command line and press Enter key.
 What do you see? Copy and paste this command and its output to as answer to this section of your quiz1 README.md file.
-10. How would you check the status of your test Git project that you have created in this folder? (Hint: Again, consult the lecture notes.)
+13. How would you check the status of your test Git project that you have created in this folder? (Hint: Again, consult the lecture notes.)
 Paste the git command and its output as your answer to this question in your quiz README.md file.
-11. If you see no changes, you can skip this question.
+14. If you see no changes, you can skip this question.
 If you see changes in your git project from the step above, how would you stage and commit those changes to your test project on the command line?
 Type those two (or both in one) commands in the terminal and copy/paste the output to your quiz1 README file.
-12. Check the status of your test project one more time on the command line.
+15. Check the status of your test project one more time on the command line.
 Copy/paste the command and its output to your quiz1 README file.
-13. Now type the following command exactly as is in your terminal and press Enter.
+16. Now type the following command exactly as is in your terminal and press Enter.
 cd .. && rm -rf ./testdir
 Explain what you just accomplished with the above command? What does -rf do in the above command?
 (Hint: && means perform the first command and if successful, perform the command that follows &&.)
 
-23. Name four newly emerging branches of science that are growing exponentially fast with respect to the traditional fields of science. (Hint: Consult our lecture notes)
+23. Name four newly emerging branches of science that are growing exponentially fast with respect to the traditional fields of science. (Hint: Consult our lecture notes)  
+Biomedical
+Neuroscience
+Cognitive Science
+Neurobiology
 
-24. Name four modern scientific tools or algorithms that have been growing exponentially fast in popularity over the past decades. (Hint: Consult our lecture notes)
+25. Name four modern scientific tools or algorithms that have been growing exponentially fast in popularity over the past decades. (Hint: Consult our lecture notes)  
+Computer
+Optimization
+Simulations
+Bayesian  
+26. Name three major modern pillars of science. (Hint: Consult our lecture notes)
 
-25. Name three major modern pillars of science. (Hint: Consult our lecture notes)
+27. Name three major modern applications of computational and data sciences. (Hint: Consult our lecture notes)
 
-26. Name three major modern applications of computational and data sciences. (Hint: Consult our lecture notes)
+28. Name the three major components of the field of Data Science? (Hint: Consult our lecture notes)
 
-27. Name the three major components of the field of Data Science? (Hint: Consult our lecture notes)
+29. You are hopefully on track to become a Data Scientist. Recalling our discussion in class, how would you best define a Data Scientist? (Hint: Check, your answer to the previous question, consult our lecture notes and recall our detailed class discussion on data scientist as someone who knows more or less of certain topics compared to other scientists.)
 
-28. You are hopefully on track to become a Data Scientist. Recalling our discussion in class, how would you best define a Data Scientist? (Hint: Check, your answer to the previous question, consult our lecture notes and recall our detailed class discussion on data scientist as someone who knows more or less of certain topics compared to other scientists.)
-
-29. Extra Credit. What is the difference between a relative and an absolute file path?
+30. Extra Credit. What is the difference between a relative and an absolute file path?
 Which one is more appropriate to use in your GitHub projects? Why?
 
-30. Extra Credit. Write down the Git command that lists all Git commands for you (Hint: See the lecture notes)
+31. Extra Credit. Write down the Git command that lists all Git commands for you (Hint: See the lecture notes)
 
-31. Extra Credit. What does the Linux Bash terminal command cd ~ do? (Hint: Recall our class discussions on what ~ means.)
+32. Extra Credit. What does the Linux Bash terminal command cd ~ do? (Hint: Recall our class discussions on what ~ means.)
