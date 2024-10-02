@@ -45,4 +45,19 @@ Then, why cannot we add more transistors to computers to make them faster?
 Adding more transistors would make the transistors smaller and less efficient.  
 21. What are the three tasks accomplished within a CPU cycle?  
 Fetch, decode, and execute.  
-
+22. Can a powerful computer with more CPU cycles be slower than a computer with less CPU cycles? Why or How?  
+Yes because it can be affected by other factors like
+23.What is the bottleneck of speed in modern computers? CPU clocks or memory access? Why?  
+It is usually memory access    
+24. What is the difference between the Dennard Scaling, MOSFET scaling, and Moore’s law?  
+Dennard and MOSFET Scaling states that more transistors will increase the speed of the computer. Whereas Moores law states that   
+the transistor count doubles every two years.    
+25. 1. 64 grains of rice    
+    2. 2080 grains of rice    
+    3. 0.3 pounds of rice  
+26. 1. 9,223,372,036,854,775,808 grains of rice  
+    2. 18,446,744,073,709,551,615 grains of rice  
+    3. 2,635,249,197,586.5 pounds of rice  
+    4. 1.32 years  
+27. What are the three fundamental components of a Turing-complete language?  
+conditional branching, modify arbitrary memory, and looping.  
