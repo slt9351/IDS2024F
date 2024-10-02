@@ -33,7 +33,16 @@ CPU registers.
 15. What is typically the smallest memory unit in the memory hierarchy of modern computers?  
 A bit  
 16. How much faster is the access to the register memory compared to RAM in modern computers?  
-It is faster
+It is faster  
 17. How much faster is the access to the RAM compared to typical SSD hard drives in modern computers?  
 It is Faster  
 18. How much faster is the access to the RAM compared to typical HDD hard drives in modern computers?  
+It is faster  
+19. What are the primary roles of transistors in computers?  
+Switching on/off, control, amplify  
+20. We know that more transistors mean faster computers.  
+Then, why cannot we add more transistors to computers to make them faster?  
+Adding more transistors would make the transistors smaller and less efficient.  
+21. What are the three tasks accomplished within a CPU cycle?  
+Fetch, decode, and execute.  
+
