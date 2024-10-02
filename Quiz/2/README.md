@@ -20,7 +20,28 @@
   A computer that has to be rewired to preform a new task.  
 11. Name an example of modern-day fixed program computer.  
     A calculator  
+ 12. What is the difference between declarative and imperative knowledge?
+    Declarative knowlege is a statement of fact while imperative knowledge is intructions to do something.
+13. Classify the following statements as imperative or declarative knowledge.  
+   a. The letter B is the second letter in the English alphabet.
+      Declarative  
+   b. Overcast sky conditions are more likely to cause rain.
+      Declarative  
+   c. Submit your answer to this question in subfolder 2 of quiz folder of your GitHub project.
+      Imperative  
+   e. Once done with this quiz, do not forget to commit your responses to your repository.
+      Imperative  
+   d. You must answer all questions in this quiz to get a full grade.
+      Declarative
+14. What class of human knowledge algorithms belong to?
+    Artificial Intelligience
+15. What is the name of the first digital computer?
+    The ENIAC
     
+
+
+
+
 
 
 
