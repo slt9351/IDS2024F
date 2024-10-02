@@ -6,5 +6,9 @@ Computers use integers since there are large amounts of integers and it is more 
 The CPU register  
 5. What is the slowest storage device in computers (that is typically integrated with computers)?  
 The disk  
-
-
+6.What is the smallest unit of information in computer science?  
+A bit  
+7.(A) What is the closest programming language to machine code (i.e., binary code)?  
+Assembly code  
+  (B) Does it need interpretation in order to become machine-comprehensible?  
+  
