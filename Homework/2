@@ -16,4 +16,24 @@ No, since it is low-level it is efficient and does not need to be interpreted.
 Fortran  
 (B) Approximately how many decades is it old? (±15 years is acceptable answer. the decade it was created is also an acceptable answer)  
 It was created 67 years ago in 1957.  
-9. 
+9. (A) Name a second-generation programming language.  
+Assembly  
+(B) Which language-generation are Fortran, C, C++, MATLAB, Python, R?
+Third and fourth generation.  
+10. In what decades C, C++, and MATLAB/Python were created, respectively?
+1970s, 1980s, 1980s, 1990s  
+11. Name an ancestor programming language of C.  
+B  
+12. Name a programming language ancestor of C++.  
+C  
+13. Name a programming language ancestor of MATLAB and a programming language ancestor of Python.
+Fortran and C  
+14. What is fastest part of the memory in the memory hierarchy of modern computers?  
+CPU registers.  
+15. What is typically the smallest memory unit in the memory hierarchy of modern computers?  
+A bit  
+16. How much faster is the access to the register memory compared to RAM in modern computers?  
+It is faster
+17. How much faster is the access to the RAM compared to typical SSD hard drives in modern computers?  
+It is Faster  
+18. How much faster is the access to the RAM compared to typical HDD hard drives in modern computers?  
