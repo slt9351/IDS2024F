@@ -7,8 +7,13 @@ The CPU register
 5. What is the slowest storage device in computers (that is typically integrated with computers)?  
 The disk  
 6.What is the smallest unit of information in computer science?  
-A bit  
-7.(A) What is the closest programming language to machine code (i.e., binary code)?  
+A bit   
+7.(A) What is the closest programming language to machine code (i.e., binary code)?   
 Assembly code  
-  (B) Does it need interpretation in order to become machine-comprehensible?  
-  
+  (B) Does it need interpretation in order to become machine-comprehensible?   
+No, since it is low-level it is efficient and does not need to be interpreted.  
+8. (A) Name the oldest high-level programming language that is still in active daily use.  
+Fortran  
+(B) Approximately how many decades is it old? (±15 years is acceptable answer. the decade it was created is also an acceptable answer)  
+It was created 67 years ago in 1957.  
+9. 
