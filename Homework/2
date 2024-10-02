@@ -1,10 +1,10 @@
-1. What does ENIAC mean?  
+2. What does ENIAC mean?  
 Electronic Numerical Integrator And Computer  
-2. Why is everything represented by integers in computers.  
+3. Why is everything represented by integers in computers.  
 Computers use integers since there are large amounts of integers and it is more efficient than decimal numbers or letters.   
-3. What is the name of the fastest part of the computer memory?  
-The CPU registers  
-4. What is the slowest storage device in computers (that is typically integrated with computers)?  
-The CPU disk  
-4
+4. What is the name of the fastest part of the computer memory?  
+The CPU register  
+5. What is the slowest storage device in computers (that is typically integrated with computers)?  
+The disk  
+
 
