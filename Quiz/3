@@ -18,7 +18,20 @@
 11. What does it mean if two Boolean propositions are equal?
   They are equally plausible 
 12. What is the result of adding two propositions that complement each other?
+  The result is one proposition is always true while the other is always false.
+  For example the two propositions are "it is rainy and it is sunny". If one is true, one is false. 
+13. What is the result of multiplying (that is, conjunction of) two propositions that complement each other?
 Explain you answer with an example.
-  
+  AB=BA. Ex. 
+15. What is the tiniest unit of information?
+  A bit
+16. Imagine our universe was completely empty with nothing in it. Does this universe contain any information?
+  NO
+17. Consider 4 bits of storage. How many integers (or call it different states, or different possibilities) can you represent with it?
+  There are 16 possibilities since each bit has 2 possibilities. 2^4=16
+18. Consider 4 boxes each of which can take 3 possible values (or call it states): −1,0,+1
+. How many decimal integers (or call it different states, or different possibilities) can you represent with these 4 boxes?
+  3^4=81. There are 81 possiblities. 
+
 
 
