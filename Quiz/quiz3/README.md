@@ -4,7 +4,7 @@
   Experimental, Theory, and Computation+Data  
 3. Describe three different major applications of the third pillar of science with respect to the first two.  
   Predictive computing for hypothesis/theory and prediction. Numerical simulation for when obeservational data is not available. Machine learning for wjere theory is not available.   
-4. Name the two different categories of logical reasoning and provide and example of each class.  
+4. Name the two different categories of logical reasoning and provide and example of each class.    
   Deductive and plausible reasoning. For deductive reasoning I would say my logic is "if I am sick then you are sick". The truth is I am sick so it is a fact that you are also sick.   
   For Plausible reasoning I would say my logic is "if I am sick you are sick". The truth is I am sick so it is plausible that you are sick but it is not a fact.  
 5. What is the relationship between data and reality? Can we observe reality?  
