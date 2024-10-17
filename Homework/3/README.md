@@ -14,6 +14,13 @@
    No. The proposition "it is raining" can only be true or false any rain means it is raining    
 8.Does A⇒B necessitate B⇒A?  
    No, For example if it is raining that means the floor is wet, but if the floor is wet that does not mean it is raining.  
-12. Provide an example that shows logical implication does not necessarily imply physical causation.  
-    It is raining so the streets are wet. Logical implication states that the rain caused wet streets but the streets could be wet from something else so the rain is not the physical causation
-
+12. Provide an example that shows logical implication does not necessarily imply physical causation.    
+    It is raining so the streets are wet. Logical implication states that the rain caused wet streets but the streets could be wet from something else so the rain is not the physical causation  
+14. Consider the following series of questions:  
+a. What is the tiniest unit of information?
+  A bit  
+b. Why does this amount of information represent the tiniest information unit?  
+  it can only hold 2 possible states.   
+c. 1. 2
+    2. 4
+    3. 8
