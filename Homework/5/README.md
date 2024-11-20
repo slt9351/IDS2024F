@@ -1,3 +1,5 @@
+2. Name the three fundamental desiderata of Probability Theory.  
+
 3. what are aesthetics in data visualization? Name a few aesthetics that can appear in a data visualization.  
    A form of data visualization making data sets into graphics  
 4. Name the two major classes of aesthetics.  
