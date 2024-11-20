@@ -40,16 +40,16 @@ Describe an example dataset that could be classified as either numerical or cate
 21. Is color a categorical/unordered or quantitative/ordered aesthetics?    
     Color is categorical/unordered  
 22. Graph E would be best for graphing a coordinate since it is too scale. Any other graph would warp location.   
-23. The best color palatte would be the first one since humans associate red with bad and green with good. This color palette would communicate its meaning effectivley.  
-24. Which city’s temperature is the least varying throughout the year (mostly the same temperature)?  
-    San Diego   
-Which city’s temperature is the wildest varying throughout the year (sometimes relatively very hot or some times relatively very cold)?
-Death Valley  
-Which city the hottest in the month of January?
+23. The best color palatte would be the first one since humans associate red with bad and green with good. This color palette would communicate its meaning effectivley.    
+24. Which city’s temperature is the least varying throughout the year (mostly the same temperature)?    
+    San Diego    
+Which city’s temperature is the wildest varying throughout the year (sometimes relatively very hot or some times relatively very cold)?    
+Death Valley     
+Which city the hottest in the month of January?  
 San Diego  
-Which city the coolest in the month of July?
-San Diego
-25. Which classes of color scales the following color-mappings belong to?  
+Which city the coolest in the month of July?  
+San Diego  
+25. Which classes of color scales the following color-mappings belong to?   
     a) qualitative color scale  
     b)sequential color scale  
     c)diverging color scale  
