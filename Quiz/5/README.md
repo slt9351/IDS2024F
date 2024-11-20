@@ -11,7 +11,7 @@
 7. Which inference methodology allows the inclusion of expert knowledge in data analysis and decision-making?
   Bayesian inference.
 8. Why is Bayesian Probability Theory more popular among physicists and engineers and Frequentist Probability Theory more popular among Biologists and Social Scientists?  
-  
+   
 9. When did the first modern definition of Probability appear in history?
  1700
 10. What kinds of uncertainty exist in our experiments?  
@@ -54,7 +54,23 @@ San Diego
     b)sequential color scale  
     c)diverging color scale  
     d)accent color scales
-    
+26. What kind of data set can be best visualized in polar coordinates?
+  Periodic data sets.
+27. Which color scale has been used in the following visualization?
+    CARTO earth
+28. What is ugly in the following graph?
+  The text is sideways and hard to read.
+29. a)Just by looking at this graph, do you think the temperature of Earth will increase or decrease in the following decades?
+    The temperature will increase.
+    b)Approximately, how much hotter or cooler do you think Earth will be in 2050 with respect to the average temperatures during 1951-1980 (the zero-anomaly temperature)? Express your answer in units of Celsius or Fahrenheit if you like (1
+ Celsius is about 1.8 degrees Fahrenheit).
+    The temperature will likely increase 1 degree celcius
+
+ 
+
+
+
+
     
 
 
