@@ -38,11 +38,11 @@ This is valid
 9. Can we represent probability as we define in science using integer numbers?  
   No because it needs to be whole numbers.  
 10. What consistency criteria are required to define probability?
-1.  If a conclusion can be reasoned out in more than one way, then every possible way
+   1.  If a conclusion can be reasoned out in more than one way, then every possible way
 must lead to the same result.  
-2. We must always consider all the evidence relevant to a question. We should not
+   2. We must always consider all the evidence relevant to a question. We should not
 arbitrarily ignore some information, basing the conclusions only on what remains.  
-3. We must always represent equivalent states of knowledge by equivalent
+   3. We must always represent equivalent states of knowledge by equivalent
 plausibility assignments. That is, if the state of knowledge is the same (except
 perhaps for labeling the propositions) in two problems, then it must assign the
 same plausibilities in both.  
