@@ -61,10 +61,25 @@ Git is a VCS software, GitHub is Git-reprository manager.
 Frequentist probability  
 18. What is wrong in the following visualization?  
 The data goes before 0 which is impossible since the timeline represents age.  
-19. Why is everything represented by integers in computers?  
-
-
-
+19. Why is everything represented by integers in computers?   
+   To make it easier to work with large sets of data  
+20. Name an ancestor programming language of C.  
+B
+21. Name the first high-level programming language in computer history.
+    Python  
+24. Name the two different categories of logical reasoning and provide and example of each class.  
+Deductive reasoning and plausible reasoning  
+   deductive can be true or false but not both like living and dead  
+    plausible says if a is true then b must be true like if its wet then it must have rained.  
+25. What does it mean if two Boolean propositions are equal?
+it is a truth value  
+28. Consider the following summation:
+S=3+6+9+…+93+96+99.
+What is the value of S? Explain your novel strategy to get your answer.  
+   1683  
+32. What types of fundamental uncertainties can you identify in nature?
+Which one is intrinsic?
+The existance of God .  
 
 
 
